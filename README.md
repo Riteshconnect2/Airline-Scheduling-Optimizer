@@ -6,19 +6,22 @@ A Python-based application that assigns pilots and cabin crew to flights while e
 
 Displays total flights, assigned flights, unassigned flights, total assigned cost, and the optimized flight schedule.
 
-![Operations Overview](screenshots/operations-overview.png)
+<img width="1787" height="838" alt="image" src="https://github.com/user-attachments/assets/b0d90519-bc8c-4878-a5ae-334f963cb506" />
+
 
 ### 2. Optimized Flight Schedule
 
 Shows flight routes, departure and arrival times, aircraft, required crew, assigned pilot and cabin crew, flight duration, cost breakdown, and assignment status.
 
-![Optimized Flight Schedule](screenshots/optimized-flight-schedule.png)
+<img width="1800" height="700" alt="image" src="https://github.com/user-attachments/assets/d562203e-9efa-4e8b-9dbe-d18beb2e05da" />
+
 
 ### 3. Algorithm Performance Comparison
 
 Compares six scheduling algorithms based on assigned flights, unassigned flights, total cost, conflicts, and cost per assigned flight.
 
-![Algorithm Comparison](screenshots/algorithm-comparison.png)
+<img width="1625" height="836" alt="image" src="https://github.com/user-attachments/assets/14c5414e-dc60-4f18-bd9a-5a905e02398a" />
+
 
 ## 🚀 Features
 
